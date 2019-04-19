@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  meinsandkasten
+project_repository: meinsandkasten.github.io
+disqus_shortname: XXXXX
 g-analytics: UA-XXXXX-1
 altmetric: true
 
